@@ -1,0 +1,8 @@
+* text=auto
+
+
+*.py text
+*.toml text
+*.lock text
+*.gitignore text
+*.md text
